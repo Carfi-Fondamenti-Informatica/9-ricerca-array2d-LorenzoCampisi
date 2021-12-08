@@ -1,7 +1,6 @@
 #include <iostream>
 #include "lib.h"
 using namespace std;
-
 int cerca(char a[10][20], char nome[]);
 
 int main() {
